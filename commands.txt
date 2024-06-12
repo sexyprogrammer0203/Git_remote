@@ -37,3 +37,9 @@ Repository --like a folder/container that stores files/folders related to a proj
 
 *git commit -m "message"
 	- saves the changes that you've made to the files in the staging area to the repository. The "message" describes what changes were made in this commit.
+
+*git log
+	- displays all the commits that were made
+
+*git log --online
+	- condensed version of git log
