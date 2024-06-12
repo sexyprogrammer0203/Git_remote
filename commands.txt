@@ -34,3 +34,6 @@ Repository --like a folder/container that stores files/folders related to a proj
 
 *git add "filename"
 	- adds a specific file to the staging area
+
+*git commit -m "message"
+	- saves the changes that you've made to the files in the staging area to the repository. The "message" describes what changes were made in this commit.
